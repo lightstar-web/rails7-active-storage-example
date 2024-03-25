@@ -1,0 +1,1 @@
+# rails7-active-storage-example
